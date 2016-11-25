@@ -5,6 +5,7 @@
 .page-placeholder {
     position: relative;
     height: 268px;
+    background-color: #fff;
 }
 
 .page-placeholder::before {
