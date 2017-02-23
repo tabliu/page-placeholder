@@ -1,2 +1,2 @@
 # page-placeholder
-![alt_text](url "./src/demo.gif")
+![page-placeholder](url "https://github.com/tabliu/page-placeholder/blob/master/src/demo.gif")
