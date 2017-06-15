@@ -1,0 +1,10 @@
+# 常规文件
+*.psd
+*.zip
+*.rar
+
+# Sass项目相关文件
+*.rb
+*.map
+.sass-cache/
+
